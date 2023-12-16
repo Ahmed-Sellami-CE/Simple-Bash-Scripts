@@ -1,4 +1,5 @@
 #! /bin/bash
+## Author : Ahmed Sellami ##
 
 read -p "Enter Username : " -s -t 5 username
 infoline=$(cat "/etc/passwd" | grep -E "^$username")
