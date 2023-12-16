@@ -1,4 +1,6 @@
 #! /bin/bash
+## Author : Ahmed Sellami ##
+
 DELAY=1.2
 while [[ "$choice" != 0 ]]
 do
