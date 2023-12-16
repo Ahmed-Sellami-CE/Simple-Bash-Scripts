@@ -1,0 +1,16 @@
+Ubuntu 10 11/25/2008
+Debian 5 03/20/2006
+Fedora 6 10/24/2006
+CentOS 7 05/31/2007
+Gentoo 8 11/08/2007
+Fedora 9 05/13/2008
+OpenSUSE 10.1 05/11/2006
+Linux Mint 10.2 12/07/2006
+Elementary OS 10.3 10/04/2007
+KylinOS 11.0 06/19/2008
+Deepin 6.06 06/01/2006
+Zorin OS 6.10 10/26/2006
+Pop_OS 7.04 04/19/2007
+KDE neon 7.10 10/18/2007
+Kubuntu 8.10 10/30/2008
+Astra Linux 8.04 04/24/2008
