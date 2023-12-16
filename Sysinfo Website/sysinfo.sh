@@ -1,4 +1,5 @@
 #!/bin/bash
+## Author : Ahmed Sellami ##
 
 show_uptime(){
 	cat <<- _EOF_
